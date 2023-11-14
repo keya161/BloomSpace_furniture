@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/BloomSpace_furniture/static/css/main.69f2e489.css",
+    "main.js": "/BloomSpace_furniture/static/js/main.bddb7d84.js",
+    "static/media/image-one.svg": "/BloomSpace_furniture/static/media/image-one.447caf1eb31a2127c23544c1c958dfc0.svg",
+    "static/media/image-two.svg": "/BloomSpace_furniture/static/media/image-two.b3b47f6a3eac670eec30861935e28549.svg",
+    "static/media/hero-image.svg": "/BloomSpace_furniture/static/media/hero-image.ca2c6b80cd542bc9d87c5cc92aada6af.svg",
+    "static/media/image-three.svg": "/BloomSpace_furniture/static/media/image-three.382a1b8ded521eac9609ae428258c088.svg",
+    "static/media/image-four.svg": "/BloomSpace_furniture/static/media/image-four.a329eb0d11f6236c531f8cd1fa602688.svg",
+    "static/media/produc-two.svg": "/BloomSpace_furniture/static/media/produc-two.ed0b2e46ea4d3b271a1ff1dabec9deab.svg",
+    "static/media/product-three.svg": "/BloomSpace_furniture/static/media/product-three.18f558b239e0222b7747a4030fc31062.svg",
+    "static/media/product-one.svg": "/BloomSpace_furniture/static/media/product-one.9508b14a609f982b0a2f604ddbac36ab.svg",
+    "static/media/sun-icon.svg": "/BloomSpace_furniture/static/media/sun-icon.8b253686c39fbffd17f909a4988b30e0.svg",
+    "static/media/plant-icon.svg": "/BloomSpace_furniture/static/media/plant-icon.4ff21eeb5cb7160a085053620e195e70.svg",
+    "static/media/stars-icon.svg": "/BloomSpace_furniture/static/media/stars-icon.7aedef0452311bf95bc120cb5d375d47.svg",
+    "static/media/free-shiping-icon.svg": "/BloomSpace_furniture/static/media/free-shiping-icon.613156b44e46bef9d78642d3190611f6.svg",
+    "static/media/logo.svg": "/BloomSpace_furniture/static/media/logo.db9bd6266638fe2d84467b59eb864e9b.svg",
+    "static/media/temperature-icon.svg": "/BloomSpace_furniture/static/media/temperature-icon.269d1bd0e6c38038960f5485e7a7e349.svg",
+    "static/media/quick-payment-icon.svg": "/BloomSpace_furniture/static/media/quick-payment-icon.61855b619a93598f94bdcfe3846b7f62.svg",
+    "static/media/cart-icon.svg": "/BloomSpace_furniture/static/media/cart-icon.1e7f1e28b266e1a6c28c338d71215e08.svg",
+    "static/media/search-icon.svg": "/BloomSpace_furniture/static/media/search-icon.b58e71382d36ef34bface173c342e363.svg",
+    "static/media/water-icon.svg": "/BloomSpace_furniture/static/media/water-icon.b435400ed14af12331e17351f383cf61.svg",
+    "static/media/support-icon.svg": "/BloomSpace_furniture/static/media/support-icon.74552ad7f2dfa330069d29d3e5fba3ac.svg",
+    "static/media/plus-icon.svg": "/BloomSpace_furniture/static/media/plus-icon.d251ef1709aab5ad0879bd5623c1b8d3.svg",
+    "static/media/arrow-icon.svg": "/BloomSpace_furniture/static/media/arrow-icon.460616d3c1ded19e7866ec27cd0716c6.svg",
+    "index.html": "/BloomSpace_furniture/index.html",
+    "main.69f2e489.css.map": "/BloomSpace_furniture/static/css/main.69f2e489.css.map",
+    "main.bddb7d84.js.map": "/BloomSpace_furniture/static/js/main.bddb7d84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f2e489.css",
+    "static/js/main.bddb7d84.js"
+  ]
+}
